@@ -6,3 +6,5 @@ shap
 networkx
 streamlit
 plotly
+rapidfuzz
+scipy
