@@ -1,7 +1,7 @@
 # config.py — project-wide constants
 
 # Paths
-RAW_DATA_PATH = "raw_data.csv"
+RAW_DATA_PATH = "MPLADS.csv"
 SCORED_DATA_PATH = "scored_data.csv"
 AGENCY_FLAGS_PATH = "agency_flags.csv"
 
